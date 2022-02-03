@@ -27,4 +27,4 @@ npm i
 npm run dev-server
 ```
 
-Visit [Todo App](https://abotalb-notes.netlify.app/) 
+Visit [Todo App](https://abotalb-todos.netlify.app/) 
